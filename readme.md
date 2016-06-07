@@ -36,4 +36,7 @@ ansible
 And that's it! Godspeed!
 
 
+## License
+
+MIT
 
